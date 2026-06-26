@@ -9,5 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafalimma/learningnode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rafalimma/learningnode/issues"
+  },
+  "homepage": "https://github.com/rafalimma/learningnode#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
