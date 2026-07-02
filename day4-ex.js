@@ -16,5 +16,5 @@ app.get('/api/status', (request, response) => {
 
 app.listen(3000, () => {
     console.log('rodando servidor do exerciocio');
-})
+});
 
